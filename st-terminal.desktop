@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Suckless Terminal
+Encoding=UTF-8
+Exec=/opt/st/st
+Icon=/opt/st/st-icon.png
+Terminal=false
+Type=Application
+Categories=GTK;System;TerminalEmulator;
+StartupWMClass=st-256color
